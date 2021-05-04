@@ -7,5 +7,5 @@ The program works this way: It increments a byte from 0 to 255. For each value, 
 
 Once it reaches 255, you can re-play it by resetting the Arduino.
 
-The circuit, implemented with 1Kohm resistors. The green wire is connected to A0.
+The circuit, implemented with 1Kohm resistors (you can of course use 2Kohm resistors instead of the 1K resistors in series but I didn't have any). The green wire is connected to A0.
 ![Circuit](/images/circuit.jpg?raw=true)
