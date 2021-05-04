@@ -1,5 +1,4 @@
 # arduino_DAC_autotest
-Tests a DAC based on a resistor ladder
 
 This mini-project demonstrates the use of a resistor ladder (https://en.wikipedia.org/wiki/Resistor_ladder) as a DAC (Digital to Analog Converter).
 
